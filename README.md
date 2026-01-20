@@ -100,5 +100,6 @@ Dataset Source (Kaggle):
    The model was tested on sample reviews to demonstrate sentiment prediction capability.
 
   6.Output:
-
+<img width="414" height="433" alt="Image" src="https://github.com/user-attachments/assets/ae6cb782-a72f-4734-b03b-170be7fb5a60" />
+<img width="383" height="295" alt="Image" src="https://github.com/user-attachments/assets/6ac2d79d-fe30-4187-9368-c0c6bf10c6cd" />
   
